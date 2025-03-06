@@ -1,0 +1,15 @@
+Lista de casos prueba
+1. Love - Love
+2. 15 - 0
+3. 30 - 0
+4. 40 - 0
+5. 0 -15
+6. 0 - 30
+7. 0 - 40
+8. 15 - 30
+9. Deuce
+10. Advantage for p1
+11. Advantage for p2
+12. De advantage volver a Deuce
+13. Game for p1
+14. Game for p2
