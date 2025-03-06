@@ -1,9 +1,13 @@
-import sumar from "./sumador.js";
+import obtenerScore from "./sumador.js";
 
-describe("Sumar", () => {
-  it("deberia sumar dos numeros", () => {
-    expect(sumar(3, 2)).toEqual(5);
+describe("Puntaje", () => {
+  it("deberia devolver love love", () => {
+    expect(obtenerScore(0, 0)).toEqual("love - love");
   });
 });
 
-
+describe("Puntaje", () => {
+  it("deberia devolver 15 - 0", () => {
+    expect(obtenerScore(1, 0)).toEqual("15 - 0");
+  });
+});
